@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 🤖 Jigmey Dorjee ඞ</h1>
+<h1 align="center">Hi 👋, I'm 🤖 Jigmey Dorjee </h1>
 <h3 align="center">I am a 1st year UNSW CompSci Student with a passion in security engineering.</h3>
 
 - 👾 I’m currently working on **Hack The Box's Certified Bug Bounty Path**
@@ -10,7 +10,6 @@
 - 📜 Certifications **OSCP**
 
 - 📫 How to reach me **jigmey.d@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jigmey-dorjee-b397a4267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigmey-dorjee-b397a4267" height="30" width="40" /></a>

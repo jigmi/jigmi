@@ -3,7 +3,7 @@
 
 - 👾 I’m currently working on **Hack The Box's Certified Bug Bounty Path**
 
-- 🩻 I’m currently learning **a range of web vulnerabilities, however i do love yummy 🍪.**
+- 🩻 I’m currently learning **back and front end programming, along with a range of web vulnerabilities, however i do love yummy 🍪.**
 
 - 👯 I’m looking to collaborate on **Offensive Security Projects**
 

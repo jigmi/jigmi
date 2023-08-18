@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 🤖 Jigmey, nice to meet you!  </h1>
+<h1 align="center">Hi 👋, I'm 🤖 Jigmey (Jiggy), nice to meet you!  </h1>
 <h3 align="center">I am a UNSW CompSci Student with a passion in security engineering.</h3>
 
 - 👾 I’m currently working on **Hack The Box's Certified Bug Bounty Path**
